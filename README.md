@@ -1,14 +1,3 @@
-**Utilizando Sistemas de Control de Versiones  
-**Fabian C. Rojas
-
-Facultad de Ingeniería, Universidad Iberoamericana
-
-Mantenimiento de Software
-
-Profesora Diana C. Candia
-
-15 de mayo del 2023
-
 ## Contexto
 
 Un equipo posee un requerimiento para realizar una página web, la cual debe tener ciertas características descritas en las historias de usuario, las cuales funcionan como mapa, para que el equipo de desarrollo pueda realizar una a una y así acercarse más a las necesidades y requerimientos del cliente, a su vez el equipo de desarrollo debe realizar un trabajo en conjunto usando la interfaz de git para realizar un correcto manejo de versiones en la medida que se va agregando código y funcionalidades adicionales a la aplicación web.
@@ -174,7 +163,7 @@ Detalles:
 
 Para el inicio de esta historia de usuario no se contaba con una pagina de home, luego de realizar el desarrollo del home.html, se ingresa el código de php que permita tener una conexión e interacción con el fin de que la página pueda consultar a la base de usuarios registrados posterior a eso se realiza el commit como se evidencia en el screen abajo.
 
-![Texto Descripción generada automáticamente](media/7d8354cc5daa296d7656ae3fb042206b.png)
+(media/7d8354cc5daa296d7656ae3fb042206b.png)
 
 La interfaz del home queda de la siguiente forma.
 
